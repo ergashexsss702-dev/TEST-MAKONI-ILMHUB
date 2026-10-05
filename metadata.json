@@ -1,0 +1,6 @@
+{
+  "name": "ILMHUB TESTLAR MAKONI",
+  "description": "Bilimingizni sinang, natijangizni kuzating va yanada rivojlaning! Zamonaviy premium online test va ta'lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
